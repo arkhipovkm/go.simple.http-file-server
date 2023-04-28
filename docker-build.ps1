@@ -1,0 +1,1 @@
+docker build -t go.simple.http-file-server .
