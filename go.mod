@@ -1,3 +1,3 @@
 module go.simple.http-file-server
 
-go 1.14
+go 1.19
